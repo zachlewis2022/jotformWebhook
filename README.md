@@ -13,3 +13,8 @@ python3 getSubmissionFormsJsonToCsv.py
 
 ## Output File
 [Demo Output File](./submissionForms.csv)
+
+## Test Account zalmellc@gmail.com
+
+https://www.jotform.com/myaccount/profile
+
